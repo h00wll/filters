@@ -8,9 +8,9 @@ var activeTab = new List(10);
 var active = 0;
 
 void main() {
-  
+
   initMenu();
-  
+
   query('#kalmanTest').onClick.listen((MouseEvent event) {
     event.preventDefault();
     num time = double.parse(query('#kalmanTime').value);
@@ -22,7 +22,7 @@ void main() {
     num Ez2 = double.parse(query('#kalmanEz2').value);
     new KalmanTest(time, mNoise, pNoise, Ex1, Ez1, Ex2, Ez2);
   });
-  
+
 
   query('#particlesTest').onClick.listen((MouseEvent event) {
     event.preventDefault();
@@ -30,39 +30,45 @@ void main() {
     num pNoise = double.parse(query('#particlesPNoise').value);
     num mNoise = double.parse(query('#particlesMNoise').value);
     num count1 = double.parse(query('#particlesCount1').value);
-    num count2 = double.parse(query('#particlesCount1').value);
+    num count2 = double.parse(query('#particlesCount2').value);
     new ParticlesTest(time, mNoise, pNoise, count1, count2);
   });
-  
-  
-  //new SimpleTest();
+
   query('#simpleTest').onClick.listen((MouseEvent event) {
     event.preventDefault();
-    num pNoise = double.parse(query('#pNoise').value);
-    num mNoise = double.parse(query('#mNoise').value);
-    num pCount = int.parse(query('#pCount').value);
-    new SimpleTest(mNoise, pNoise, pCount);
+    num time = double.parse(query('#simpleTime').value);
+    num pNoise = double.parse(query('#simplePNoise').value);
+    num mNoise = double.parse(query('#simpleMNoise').value);
+    num Ex = double.parse(query('#simpleEx').value);
+    num Ez = double.parse(query('#simpleEz').value);
+    num count = int.parse(query('#simpleCount').value);
+    new SimpleTest(time, mNoise, pNoise, Ex, Ez, count);
   });
-  
+
   query('#moveTest').onClick.listen((MouseEvent event) {
     event.preventDefault();
     num pNoise = double.parse(query('#pNoise1').value);
     num mNoise = double.parse(query('#mNoise1').value);
     num pCount = int.parse(query('#pCount1').value);
-    new MoveTest(mNoise, pNoise, pCount); 
-  }); 
-  
+    new MoveTest(mNoise, pNoise, pCount);
+  });
+
+  query('#flightSubmit').onClick.listen((var data) {
+    FileUploadInputElement file = query('#flightFile');
+    new FlightTest(file.files);
+  });
+
   new WalkTest();
-  
+
 }
 
 void initMenu() {
 
   for (var i = 0; i < selected.length; i++) {
-    selected[i] = 'hide';  
+    selected[i] = 'hide';
     activeTab[i] = '';
   }
-  
+
   void select(int newActive) {
     selected[active] = 'hide';
     activeTab[active] = '';
@@ -71,14 +77,14 @@ void initMenu() {
     activeTab[active] = 'active';
     watchers.dispatch();
   };
-  
+
   queryAll('.tab').forEach((var e) {
     e.classes.add('hide');
     e.onClick.listen((var event) {
       select(int.parse(e.attributes['x-tab']));
     });
   });
-  
-  select(0); 
-  
+
+  select(0);
+
 }

@@ -1,17 +1,18 @@
 part of tests;
 
 class ParticlesTest {
-  
+
   num pNoise = 0;
   num mNoise = 1;
   num time = 50;
   num p1Count;
   num p2Count;
-  
+
   ParticlesTest(this.time, this.mNoise, this.pNoise, this.p1Count, this.p2Count) {
     List measurements = new List();
-    var x = 10;
+    var x = 1;
     for (var i = 0; i < time; i++) {
+      x = 0.5*x + 25*x/(1 + pow(x,2)) + 8*cos(1.2*(i-1));
       measurements.add({
         'real': x + Gaussian.normal(mean: 0, std: pNoise),
         'measured': x + Gaussian.normal(mean: 0, std: mNoise)
@@ -21,15 +22,15 @@ class ParticlesTest {
     measurements = particles2(measurements, mNoise, pNoise, p2Count);
 
     graph(measurements);
-  } 
-  
-  
+  }
+
+
   void graph(List m) {
     List data = new List();
     List data2 = new List();
     data.add(['time', 'real', 'measured', 'particles1', 'particles2']);
     data2.add(['time', 'measured', 'measured total', 'particles1', 'particles1 total', 'particles2', 'particles2 total']);
-    
+
     var met = 0, pt1 = 0, pt2 = 0;
     var me, p1, p2;
     for (var i = 0; i < m.length; i++) {
@@ -52,12 +53,12 @@ class ParticlesTest {
     new GoogleChats(data2, options, '#particlesc2');
 
   }
-    
-  
-  
+
+
+
   List particles1(List measurements, num meNoise, num peNoise, num pCount) {
-    
-    
+
+
     //define our model
     var aNoise = () {
       return Gaussian.normal(mean: 0, std: peNoise);
@@ -65,13 +66,14 @@ class ParticlesTest {
     var mNoise = () {
       return Gaussian.normal(mean: 0, std: meNoise);
     };
-  
+
     //define particles filter model
     var move = (List p) {
-      p[0] = p[0] + mNoise();
-    };    
+      p[0] = 0.5*p[0] + 25*p[0]/(1 + pow(p[0],2)) + 8*cos(1.2*(p[1]-1)) + aNoise() + mNoise();
+      p[1]++;
+    };
     var generate = (List m, List o) {
-      return [m[0] + mNoise()];
+      return [m[0] + mNoise(), 1];
     };
     var weight = (List m, List p) {
       return Gaussian.gaussian(m[0], mean: p[0], std: meNoise);
@@ -85,35 +87,35 @@ class ParticlesTest {
       return sum;
     };
     var clone = (List p) {
-      return [p[0]];
+      return [p[0], p[1]];
     };
     ParticlesModel s = new ParticlesModel(pCount.round(), move, generate, mean, aNoise, mNoise, weight, clone);
     Particles filter = new Particles(s);
-  
-  
+
+
     measurements[0]['particles1'] = measurements[0]['measured'];
-  
+
     filter.generate([measurements[0]['measured']], [measurements[0]['measured']]);
-  
+
     //run experiment
     var filtered;
     for (var i = 1; i < measurements.length; i++) {
-     
+
       filter.move();
       filter.weight([measurements[i]['measured']]);
       filter.resample();
       filtered = filter.mean();
-  
+
       measurements[i]['particles1'] = filtered;
     }
-  
+
     return measurements;
-  
+
   }
-  
+
 
   List particles2(List measurements, num meNoise, num peNoise, num pCount) {
-  
+
     //define our model
     var aNoise = () {
       return Gaussian.normal(mean: 0, std: peNoise);
@@ -121,13 +123,14 @@ class ParticlesTest {
     var mNoise = () {
       return Gaussian.normal(mean: 0, std: meNoise);
     };
-  
+
     //define particles filter model
     var move = (List p) {
-      p[0] = p[0] + mNoise();
-    };    
+      p[0] = 0.5*p[0] + 25*p[0]/(1 + pow(p[0],2)) + 8*cos(1.2*(p[1]-1)) + aNoise() + mNoise();
+      p[1]++;
+    };
     var generate = (List m, List o) {
-      return [m[0] + mNoise()];
+      return [m[0] + mNoise(), 1];
     };
     var weight = (List m, List p) {
       return Gaussian.gaussian(m[0], mean: p[0], std: meNoise);
@@ -144,31 +147,31 @@ class ParticlesTest {
       return sum;
     };
     var clone = (List p) {
-      return [p[0]];
+      return [p[0], p[1]];
     };
     ParticlesModel s = new ParticlesModel(pCount.round(), move, generate, mean, aNoise, mNoise, weight, clone);
     Particles filter = new Particles(s);
-  
-  
+
+
     measurements[0]['particles2'] = measurements[0]['measured'];
-  
+
     filter.generate([measurements[0]['measured']], [measurements[0]['measured']]);
-  
+
     //run experiment
     for (var i = 1; i < measurements.length; i++) {
       var filtered;
-  
+
       filter.move();
       filter.weight([measurements[i]['measured']]);
       filter.resample();
       filtered = filter.mean();
-  
+
       measurements[i]['particles2'] = filtered;
     }
-  
+
     return measurements;
-  
+
   }
 
-  
+
 }

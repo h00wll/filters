@@ -2574,3 +2574,2097 @@ build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --
 Total time                                                   --  42 ms
 build.dart finished [1517 ms]
 
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 7303 ms
+Total time                                                   -- 7397 ms
+build.dart finished [10259 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3805 ms
+Total time                                                   -- 3957 ms
+build.dart finished [5547 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   -- 606 ms
+build.dart finished [4336 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 5686 ms
+Total time                                                   -- 5747 ms
+build.dart finished [8829 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [2259 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2575 ms
+Total time                                                   -- 2637 ms
+build.dart finished [5294 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [1759 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3971 ms
+Total time                                                   -- 4022 ms
+build.dart finished [8857 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  50 ms
+build.dart finished [1391 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2734 ms
+Total time                                                   -- 2788 ms
+build.dart finished [3902 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1301 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2236 ms
+Total time                                                   -- 2294 ms
+build.dart finished [3383 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  43 ms
+build.dart finished [902 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2711 ms
+Total time                                                   -- 2790 ms
+build.dart finished [3795 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  62 ms
+build.dart finished [1144 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2692 ms
+Total time                                                   -- 2747 ms
+build.dart finished [3663 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1316 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2181 ms
+Total time                                                   -- 2234 ms
+build.dart finished [3403 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [893 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2188 ms
+Total time                                                   -- 2240 ms
+build.dart finished [3324 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1054 ms]
+
+---
+build.dart --machine --changed=web\tests\tests.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2335 ms
+Total time                                                   -- 2388 ms
+build.dart finished [3275 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  63 ms
+build.dart finished [922 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2055 ms
+Total time                                                   -- 2111 ms
+build.dart finished [2958 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  38 ms
+build.dart finished [844 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2245 ms
+Total time                                                   -- 2296 ms
+build.dart finished [3274 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [897 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2259 ms
+Total time                                                   -- 2310 ms
+build.dart finished [3204 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [910 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2304 ms
+Total time                                                   -- 2357 ms
+build.dart finished [3462 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [895 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2481 ms
+Total time                                                   -- 2535 ms
+build.dart finished [3712 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  56 ms
+build.dart finished [911 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2262 ms
+Total time                                                   -- 2317 ms
+build.dart finished [3486 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [957 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2583 ms
+Total time                                                   -- 2632 ms
+build.dart finished [3548 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2272 ms
+Total time                                                   -- 2325 ms
+build.dart finished [3222 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2224 ms
+Total time                                                   -- 2277 ms
+build.dart finished [3325 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  56 ms
+build.dart finished [998 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2191 ms
+Total time                                                   -- 2245 ms
+build.dart finished [3089 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  43 ms
+build.dart finished [890 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2154 ms
+Total time                                                   -- 2201 ms
+build.dart finished [3021 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [955 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2268 ms
+Total time                                                   -- 2323 ms
+build.dart finished [3223 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [920 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2216 ms
+Total time                                                   -- 2267 ms
+build.dart finished [3180 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  50 ms
+build.dart finished [1239 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2327 ms
+Total time                                                   -- 2380 ms
+build.dart finished [3380 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1723 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4819,"charEnd":4825}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2220 ms
+Total time                                                   -- 2275 ms
+build.dart finished [3151 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [933 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2068 ms
+Total time                                                   -- 2116 ms
+build.dart finished [2960 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  62 ms
+build.dart finished [1163 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2625 ms
+Total time                                                   -- 2806 ms
+build.dart finished [11892 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  51 ms
+build.dart finished [895 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3762 ms
+Total time                                                   -- 3816 ms
+build.dart finished [5133 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [955 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3046 ms
+Total time                                                   -- 3100 ms
+build.dart finished [3983 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [1114 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2955 ms
+Total time                                                   -- 3018 ms
+build.dart finished [3952 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [913 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2246 ms
+Total time                                                   -- 2325 ms
+build.dart finished [4731 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2182 ms
+Total time                                                   -- 2234 ms
+build.dart finished [3256 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1013 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2283 ms
+Total time                                                   -- 2339 ms
+build.dart finished [3348 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart --changed=web\out\bootstrap\css\bootstrap-responsi...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2141 ms
+Total time                                                   -- 2197 ms
+build.dart finished [3192 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [907 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2281 ms
+Total time                                                   -- 2335 ms
+build.dart finished [3219 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [988 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2245 ms
+Total time                                                   -- 2301 ms
+build.dart finished [3187 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [971 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2514 ms
+Total time                                                   -- 2572 ms
+build.dart finished [3495 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [891 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2285 ms
+Total time                                                   -- 2343 ms
+build.dart finished [3205 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart --changed=web\out\bootstrap\css\bootstrap-responsi...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2240 ms
+Total time                                                   -- 2294 ms
+build.dart finished [3187 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1143 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2299 ms
+Total time                                                   -- 2354 ms
+build.dart finished [3258 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  65 ms
+build.dart finished [957 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2499 ms
+Total time                                                   -- 2551 ms
+build.dart finished [3512 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart --changed=web\out\bootstrap\css\bootstrap-responsi...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2329 ms
+Total time                                                   -- 2386 ms
+build.dart finished [3282 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  59 ms
+build.dart finished [973 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2190 ms
+Total time                                                   -- 2243 ms
+build.dart finished [3148 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [904 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2276 ms
+Total time                                                   -- 2328 ms
+build.dart finished [3329 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [959 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2256 ms
+Total time                                                   -- 2312 ms
+build.dart finished [3331 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [952 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2358 ms
+Total time                                                   -- 2417 ms
+build.dart finished [3320 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [975 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2260 ms
+Total time                                                   -- 2315 ms
+build.dart finished [3197 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [900 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2174 ms
+Total time                                                   -- 2226 ms
+build.dart finished [3107 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  52 ms
+build.dart finished [914 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2683 ms
+Total time                                                   -- 2736 ms
+build.dart finished [3682 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2352 ms
+Total time                                                   -- 2405 ms
+build.dart finished [3268 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   -- 100 ms
+build.dart finished [1063 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2276 ms
+Total time                                                   -- 2332 ms
+build.dart finished [3259 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  42 ms
+build.dart finished [911 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2465 ms
+Total time                                                   -- 2520 ms
+build.dart finished [3411 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [1244 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3367 ms
+Total time                                                   -- 3425 ms
+build.dart finished [4431 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [961 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2578 ms
+Total time                                                   -- 2634 ms
+build.dart finished [3534 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  51 ms
+build.dart finished [1350 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2922 ms
+Total time                                                   -- 2982 ms
+build.dart finished [3920 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [1191 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2138 ms
+Total time                                                   -- 2184 ms
+build.dart finished [2960 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  55 ms
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2637 ms
+Total time                                                   -- 2701 ms
+build.dart finished [3559 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [961 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2179 ms
+Total time                                                   -- 2230 ms
+build.dart finished [3133 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  51 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2999 ms
+Total time                                                   -- 3061 ms
+build.dart finished [3998 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1045 ms]
+
+---
+build.dart --machine --changed=web\charts\google_charts.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2849 ms
+Total time                                                   -- 2919 ms
+build.dart finished [4010 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  52 ms
+build.dart finished [1148 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2310 ms
+Total time                                                   -- 2364 ms
+build.dart finished [3334 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [895 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":146,"charStart":4813,"charEnd":4819}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2311 ms
+Total time                                                   -- 2374 ms
+build.dart finished [3472 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [963 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Unexpected end tag (option). Ignored.","line":91,"charStart":3322,"charEnd":3331}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Unexpected end tag (input). Ignored.","line":92,"charStart":3332,"charEnd":3340}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":101,"charStart":3475,"charEnd":3481}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4885,"charEnd":4891}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2276 ms
+Total time                                                   -- 2331 ms
+build.dart finished [3327 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [937 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Unexpected start tag token (options in the select phase. Ignored.","line":91,"charStart":3310,"charEnd":3319}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Unexpected end tag (option) in the select phase. Ignored.","line":91,"charStart":3323,"charEnd":3332}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4887,"charEnd":4893}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2133 ms
+Total time                                                   -- 2180 ms
+build.dart finished [3056 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4886,"charEnd":4892}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2202 ms
+Total time                                                   -- 2252 ms
+build.dart finished [3093 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4922,"charEnd":4928}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2127 ms
+Total time                                                   -- 2177 ms
+build.dart finished [2974 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4916,"charEnd":4922}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2044 ms
+Total time                                                   -- 2098 ms
+build.dart finished [2897 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4902,"charEnd":4908}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2088 ms
+Total time                                                   -- 2134 ms
+build.dart finished [2944 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  55 ms
+build.dart finished [1217 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4902,"charEnd":4908}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2903 ms
+Total time                                                   -- 2955 ms
+build.dart finished [3912 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [944 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4902,"charEnd":4908}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2366 ms
+Total time                                                   -- 2417 ms
+build.dart finished [3510 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":149,"charStart":4902,"charEnd":4908}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2238 ms
+Total time                                                   -- 2292 ms
+build.dart finished [3155 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [966 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2842 ms
+Total time                                                   -- 2901 ms
+build.dart finished [3832 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  59 ms
+build.dart finished [1470 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2465 ms
+Total time                                                   -- 2524 ms
+build.dart finished [3682 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   -- 184 ms
+build.dart finished [1186 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3174 ms
+Total time                                                   -- 3661 ms
+build.dart finished [9189 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  62 ms
+build.dart finished [1044 ms]
+
+---
+build.dart --machine --changed=web\tests\flight_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2144 ms
+Total time                                                   -- 2191 ms
+build.dart finished [3175 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  41 ms
+build.dart finished [833 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2321 ms
+Total time                                                   -- 2374 ms
+build.dart finished [3386 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [929 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2345 ms
+Total time                                                   -- 2402 ms
+build.dart finished [3327 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  58 ms
+build.dart finished [1055 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2422 ms
+Total time                                                   -- 2476 ms
+build.dart finished [3549 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [982 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2593 ms
+Total time                                                   -- 2652 ms
+build.dart finished [3752 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  54 ms
+build.dart finished [1158 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2281 ms
+Total time                                                   -- 2335 ms
+build.dart finished [3237 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [1006 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2407 ms
+Total time                                                   -- 2470 ms
+build.dart finished [3392 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2303 ms
+Total time                                                   -- 2356 ms
+build.dart finished [3321 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [1038 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2225 ms
+Total time                                                   -- 2280 ms
+build.dart finished [3151 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [990 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2278 ms
+Total time                                                   -- 2334 ms
+build.dart finished [3462 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1137 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3678 ms
+Total time                                                   -- 3736 ms
+build.dart finished [5212 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  60 ms
+build.dart finished [1172 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2332 ms
+Total time                                                   -- 2387 ms
+build.dart finished [3357 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2095 ms
+Total time                                                   -- 2141 ms
+build.dart finished [3170 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  44 ms
+build.dart finished [874 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2287 ms
+Total time                                                   -- 2337 ms
+build.dart finished [3158 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [1036 ms]
+
+---
+build.dart --machine --changed=web\tests\particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2558 ms
+Total time                                                   -- 2622 ms
+build.dart finished [3713 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3146 ms
+Total time                                                   -- 3202 ms
+build.dart finished [4122 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [960 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2620 ms
+Total time                                                   -- 2692 ms
+build.dart finished [5280 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [991 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2920 ms
+Total time                                                   -- 2977 ms
+build.dart finished [4066 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1332 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2675 ms
+Total time                                                   -- 2735 ms
+build.dart finished [3713 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3206 ms
+Total time                                                   -- 3270 ms
+build.dart finished [4292 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [908 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3195 ms
+Total time                                                   -- 3284 ms
+build.dart finished [7493 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  43 ms
+build.dart finished [1276 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2479 ms
+Total time                                                   -- 2535 ms
+build.dart finished [3590 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2445 ms
+Total time                                                   -- 2505 ms
+build.dart finished [3499 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2590 ms
+Total time                                                   -- 2641 ms
+build.dart finished [3896 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2427 ms
+Total time                                                   -- 2496 ms
+build.dart finished [3517 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2323 ms
+Total time                                                   -- 2376 ms
+build.dart finished [3415 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [953 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2424 ms
+Total time                                                   -- 2481 ms
+build.dart finished [3623 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  68 ms
+build.dart finished [1199 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2958 ms
+Total time                                                   -- 3016 ms
+build.dart finished [4097 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [1184 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3666 ms
+Total time                                                   -- 3992 ms
+build.dart finished [8718 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [943 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2465 ms
+Total time                                                   -- 2521 ms
+build.dart finished [3584 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1206 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2159 ms
+Total time                                                   -- 2214 ms
+build.dart finished [3143 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  40 ms
+build.dart finished [912 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2123 ms
+Total time                                                   -- 2190 ms
+build.dart finished [3121 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  41 ms
+build.dart finished [840 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3280 ms
+Total time                                                   -- 3339 ms
+build.dart finished [4337 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1079 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2471 ms
+Total time                                                   -- 2531 ms
+build.dart finished [3495 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  57 ms
+build.dart finished [1468 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2163 ms
+Total time                                                   -- 2209 ms
+build.dart finished [3089 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [900 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2754 ms
+Total time                                                   -- 2814 ms
+build.dart finished [4157 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [1194 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3044 ms
+Total time                                                   -- 3140 ms
+build.dart finished [4251 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   -- 104 ms
+build.dart finished [1089 ms]
+
+---
+build.dart --machine --changed=web\tests\kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2806 ms
+Total time                                                   -- 2908 ms
+build.dart finished [4330 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  42 ms
+build.dart finished [979 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2495 ms
+Total time                                                   -- 2697 ms
+build.dart finished [47738 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [965 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2283 ms
+Total time                                                   -- 2338 ms
+build.dart finished [3290 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [921 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2639 ms
+Total time                                                   -- 2696 ms
+build.dart finished [4243 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1109 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2143 ms
+Total time                                                   -- 2190 ms
+build.dart finished [3061 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  40 ms
+build.dart finished [825 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2028 ms
+Total time                                                   -- 2075 ms
+build.dart finished [2934 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [851 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2350 ms
+Total time                                                   -- 2403 ms
+build.dart finished [3318 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  64 ms
+build.dart finished [1284 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2605 ms
+Total time                                                   -- 2674 ms
+build.dart finished [3647 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2644 ms
+Total time                                                   -- 2706 ms
+build.dart finished [3623 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  49 ms
+build.dart finished [970 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2366 ms
+Total time                                                   -- 2425 ms
+build.dart finished [3438 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2547 ms
+Total time                                                   -- 2600 ms
+build.dart finished [3535 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4870,"charEnd":4876}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2603 ms
+Total time                                                   -- 2678 ms
+build.dart finished [3717 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  51 ms
+build.dart finished [1014 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":148,"charStart":4887,"charEnd":4893}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2518 ms
+Total time                                                   -- 2576 ms
+build.dart finished [3508 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [927 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":152,"charStart":5091,"charEnd":5097}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2442 ms
+Total time                                                   -- 2494 ms
+build.dart finished [3677 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  52 ms
+build.dart finished [954 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5195,"charEnd":5201}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2291 ms
+Total time                                                   -- 2343 ms
+build.dart finished [3243 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  45 ms
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5193,"charEnd":5199}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2364 ms
+Total time                                                   -- 2419 ms
+build.dart finished [3405 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  51 ms
+build.dart finished [966 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5197,"charEnd":5203}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2758 ms
+Total time                                                   -- 2809 ms
+build.dart finished [3995 ms]
+
+---
+build.dart --machine --changed=web\filters.html --changed=web\out\bootstrap\css\bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5198,"charEnd":5204}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2244 ms
+Total time                                                   -- 2317 ms
+build.dart finished [3248 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [1010 ms]
+
+---
+build.dart --machine --changed=web\tests\simple_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5198,"charEnd":5204}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2271 ms
+Total time                                                   -- 2326 ms
+build.dart finished [3322 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [920 ms]
+
+---
+build.dart --machine --changed=web\tests\simple_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5198,"charEnd":5204}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2276 ms
+Total time                                                   -- 2329 ms
+build.dart finished [3232 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [910 ms]
+
+---
+build.dart --machine --changed=web\tests\simple_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5198,"charEnd":5204}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2417 ms
+Total time                                                   -- 2473 ms
+build.dart finished [3438 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1050 ms]
+
+---
+build.dart --machine --changed=web\tests\simple_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":154,"charStart":5198,"charEnd":5204}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2380 ms
+Total time                                                   -- 2438 ms
+build.dart finished [3359 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  48 ms
+build.dart finished [965 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2821 ms
+Total time                                                   -- 2874 ms
+build.dart finished [4120 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  47 ms
+build.dart finished [1159 ms]
+
+---
+build.dart --machine --changed=web\filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 2947 ms
+Total time                                                   -- 3011 ms
+build.dart finished [3986 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  41 ms
+build.dart finished [880 ms]
+
+---
+build.dart --machine --changed=web\filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web\\out\\filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":357,"charEnd":486}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":753,"charEnd":754}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":777,"charEnd":778}}]
+Total time spent on web/filters.html                         -- 3085 ms
+Total time                                                   -- 3163 ms
+build.dart finished [4257 ms]
+
+---
+build.dart --machine --changed=web\out\bootstrap\css\bootstrap-responsive.css --changed=web\out\bootstrap\css\b...
+Total time                                                   --  46 ms
+build.dart finished [1301 ms]
+
