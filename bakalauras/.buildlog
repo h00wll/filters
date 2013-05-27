@@ -1,0 +1,2576 @@
+---
+build.dart --machine --changed=web/filters.dart --removed=web/kursinis.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+error unable to open file "web/filters.html"
+Total time spent on web/filters.html                         --  24 ms
+Total time                                                   --  71 ms
+build.dart finished [4239 ms]
+
+---
+build.dart --machine --changed=web/filters.css --removed=web/kursinis.css
+Total time                                                   -- 493 ms
+build.dart finished [2023 ms]
+
+---
+build.dart --machine --changed=web/filters.html --removed=web/kursinis.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":538,"charEnd":661}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"unable to open file \"web/kursinis.css\"","line":10,"charStart":233,"charEnd":276}}]
+[{"method":"error","params":{"file":"web/filters.html","message":"unable to open file \"web/kursinis.dart\"","line":102,"charStart":4505,"charEnd":4557}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":30,"charStart":883,"charEnd":891}}]
+Total time spent on web/filters.html                         -- 4348 ms
+Total time                                                   -- 4400 ms
+build.dart finished [6357 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":660}}]
+[{"method":"error","params":{"file":"web/filters.html","message":"unable to open file \"web/kursinis.dart\"","line":102,"charStart":4504,"charEnd":4556}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":30,"charStart":882,"charEnd":890}}]
+Total time spent on web/filters.html                         -- 1320 ms
+Total time                                                   -- 1368 ms
+build.dart finished [2352 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":660}}]
+[{"method":"error","params":{"file":"web/filters.html","message":"unable to open file \"web/kursinis.dart\"","line":102,"charStart":4505,"charEnd":4557}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":30,"charStart":883,"charEnd":891}}]
+Total time spent on web/filters.html                         -- 1213 ms
+Total time                                                   -- 1271 ms
+build.dart finished [2253 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":660}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":30,"charStart":883,"charEnd":891}}]
+Total time spent on web/filters.html                         -- 11144 ms
+Total time                                                   -- 11206 ms
+build.dart finished [17811 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [4870 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  45 ms
+build.dart finished [2164 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":665}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":888,"charEnd":896}}]
+Total time spent on web/filters.html                         -- 3715 ms
+Total time                                                   -- 3788 ms
+build.dart finished [7828 ms]
+
+---
+build.dart --machine --changed=web/filters.html --changed=web/out/bootstrap/css/bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":890,"charEnd":898}}]
+Total time spent on web/filters.html                         -- 2736 ms
+Total time                                                   -- 2783 ms
+build.dart finished [3993 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [846 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":890,"charEnd":898}}]
+Total time spent on web/filters.html                         -- 2648 ms
+Total time                                                   -- 2694 ms
+build.dart finished [3462 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [873 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":890,"charEnd":898}}]
+Total time spent on web/filters.html                         -- 2566 ms
+Total time                                                   -- 2608 ms
+build.dart finished [3353 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [781 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":889,"charEnd":897}}]
+Total time spent on web/filters.html                         -- 2502 ms
+Total time                                                   -- 2546 ms
+build.dart finished [3287 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [783 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":889,"charEnd":897}}]
+Total time spent on web/filters.html                         -- 4102 ms
+Total time                                                   -- 4151 ms
+build.dart finished [5277 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [1161 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":889,"charEnd":897}}]
+Total time spent on web/filters.html                         -- 2675 ms
+Total time                                                   -- 2717 ms
+build.dart finished [3469 ms]
+
+---
+build.dart --machine --changed=web/filters.html --changed=web/out/bootstrap/css/bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":889,"charEnd":897}}]
+Total time spent on web/filters.html                         -- 2430 ms
+Total time                                                   -- 2474 ms
+build.dart finished [3383 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [867 ms]
+
+---
+build.dart --machine --changed=web/out/filters.html
+Total time                                                   --  44 ms
+build.dart finished [1934 ms]
+
+---
+build.dart --machine --changed=web/out/filters.html
+Total time                                                   --  43 ms
+build.dart finished [916 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":31,"charStart":889,"charEnd":897}}]
+Total time spent on web/filters.html                         -- 3276 ms
+Total time                                                   -- 3336 ms
+build.dart finished [4274 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [923 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"custom element with tag name x-tabs not found.","line":32,"charStart":899,"charEnd":907}}]
+Total time spent on web/filters.html                         -- 2765 ms
+Total time                                                   -- 2813 ms
+build.dart finished [3600 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [1145 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2743 ms
+Total time                                                   -- 2789 ms
+build.dart finished [3641 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [1086 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   --  38 ms
+build.dart finished [779 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2013 ms
+Total time                                                   -- 2056 ms
+build.dart finished [2795 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  52 ms
+build.dart finished [938 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1990 ms
+Total time                                                   -- 2037 ms
+build.dart finished [2819 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1998 ms
+Total time                                                   -- 2041 ms
+build.dart finished [2807 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  50 ms
+build.dart finished [1378 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3620 ms
+Total time                                                   -- 3698 ms
+build.dart finished [4997 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  63 ms
+build.dart finished [1874 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2070 ms
+Total time                                                   -- 2130 ms
+build.dart finished [3141 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  44 ms
+build.dart finished [902 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1804 ms
+Total time                                                   -- 1846 ms
+build.dart finished [2593 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  58 ms
+build.dart finished [1039 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2079 ms
+Total time                                                   -- 2128 ms
+build.dart finished [2890 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  60 ms
+build.dart finished [1377 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2822 ms
+Total time                                                   -- 2865 ms
+build.dart finished [4257 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [972 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1872 ms
+Total time                                                   -- 1917 ms
+build.dart finished [3114 ms]
+
+---
+build.dart --machine --changed=web/filters.dart --changed=web/out/bootstrap/css/bootstrap-responsive.css --chan...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2237 ms
+Total time                                                   -- 2305 ms
+build.dart finished [3220 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  49 ms
+build.dart finished [3509 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1890 ms
+Total time                                                   -- 1937 ms
+build.dart finished [2695 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [862 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1749 ms
+Total time                                                   -- 1791 ms
+build.dart finished [2527 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [874 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2099 ms
+Total time                                                   -- 2146 ms
+build.dart finished [3115 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [1428 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2282 ms
+Total time                                                   -- 2329 ms
+build.dart finished [3088 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [989 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1861 ms
+Total time                                                   -- 1903 ms
+build.dart finished [2708 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [908 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1971 ms
+Total time                                                   -- 2017 ms
+build.dart finished [2805 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [883 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1988 ms
+Total time                                                   -- 2034 ms
+build.dart finished [2812 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [1039 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2261 ms
+Total time                                                   -- 2317 ms
+build.dart finished [3264 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [847 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2715 ms
+Total time                                                   -- 2766 ms
+build.dart finished [4163 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [969 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":16,"charStart":537,"charEnd":667}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1836 ms
+Total time                                                   -- 1880 ms
+build.dart finished [2618 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [876 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1998 ms
+Total time                                                   -- 2041 ms
+build.dart finished [2793 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [865 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1895 ms
+Total time                                                   -- 1940 ms
+build.dart finished [2782 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [861 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2013 ms
+Total time                                                   -- 2057 ms
+build.dart finished [2825 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [854 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1856 ms
+Total time                                                   -- 1902 ms
+build.dart finished [2707 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [814 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1862 ms
+Total time                                                   -- 1906 ms
+build.dart finished [2650 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [936 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1855 ms
+Total time                                                   -- 1900 ms
+build.dart finished [2715 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  64 ms
+build.dart finished [854 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2025 ms
+Total time                                                   -- 2072 ms
+build.dart finished [3162 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  56 ms
+build.dart finished [897 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1934 ms
+Total time                                                   -- 1981 ms
+build.dart finished [2769 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [898 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2326 ms
+Total time                                                   -- 2378 ms
+build.dart finished [3303 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  59 ms
+build.dart finished [1523 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [809 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1825 ms
+Total time                                                   -- 1871 ms
+build.dart finished [2678 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [829 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1961 ms
+Total time                                                   -- 2012 ms
+build.dart finished [2788 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [980 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1867 ms
+Total time                                                   -- 1912 ms
+build.dart finished [2653 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [815 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1851 ms
+Total time                                                   -- 1897 ms
+build.dart finished [2741 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [939 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1845 ms
+Total time                                                   -- 1890 ms
+build.dart finished [2679 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [849 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1861 ms
+Total time                                                   -- 1906 ms
+build.dart finished [2659 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [875 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1906 ms
+Total time                                                   -- 1951 ms
+build.dart finished [2719 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [813 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1857 ms
+Total time                                                   -- 1903 ms
+build.dart finished [2657 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [879 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1800 ms
+Total time                                                   -- 1843 ms
+build.dart finished [2580 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  44 ms
+build.dart finished [829 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1945 ms
+Total time                                                   -- 1993 ms
+build.dart finished [2762 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [802 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1864 ms
+Total time                                                   -- 1908 ms
+build.dart finished [2693 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [834 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1826 ms
+Total time                                                   -- 1876 ms
+build.dart finished [2619 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [852 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1864 ms
+Total time                                                   -- 1908 ms
+build.dart finished [2652 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [813 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1856 ms
+Total time                                                   -- 1899 ms
+build.dart finished [2709 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  51 ms
+build.dart finished [951 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1842 ms
+Total time                                                   -- 1890 ms
+build.dart finished [2650 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [838 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":74,"charStart":2311,"charEnd":2317}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1798 ms
+Total time                                                   -- 1841 ms
+build.dart finished [2594 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  49 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":74,"charStart":2281,"charEnd":2287}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1807 ms
+Total time                                                   -- 1853 ms
+build.dart finished [2686 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [826 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"End tag (div) seen too early. Expected other end tag.","line":73,"charStart":2253,"charEnd":2259}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1881 ms
+Total time                                                   -- 1932 ms
+build.dart finished [2692 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [823 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1961 ms
+Total time                                                   -- 2003 ms
+build.dart finished [2755 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  42 ms
+build.dart finished [828 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  39 ms
+build.dart finished [801 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2507 ms
+Total time                                                   -- 2644 ms
+build.dart finished [3521 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  63 ms
+build.dart finished [1798 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2074 ms
+Total time                                                   -- 2121 ms
+build.dart finished [2894 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  59 ms
+build.dart finished [2029 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2395 ms
+Total time                                                   -- 2464 ms
+build.dart finished [6827 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [2076 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2366 ms
+Total time                                                   -- 2413 ms
+build.dart finished [5512 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  55 ms
+build.dart finished [1531 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2080 ms
+Total time                                                   -- 2126 ms
+build.dart finished [3291 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  44 ms
+build.dart finished [1057 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1911 ms
+Total time                                                   -- 1966 ms
+build.dart finished [2877 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [1062 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1939 ms
+Total time                                                   -- 1986 ms
+build.dart finished [2904 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [3230 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2540 ms
+Total time                                                   -- 2604 ms
+build.dart finished [4000 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  44 ms
+build.dart finished [1902 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1916 ms
+Total time                                                   -- 1962 ms
+build.dart finished [2804 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [835 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2026 ms
+Total time                                                   -- 2069 ms
+build.dart finished [2852 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [888 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1953 ms
+Total time                                                   -- 2002 ms
+build.dart finished [2838 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [844 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1987 ms
+Total time                                                   -- 2034 ms
+build.dart finished [2823 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  58 ms
+build.dart finished [1103 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2458 ms
+Total time                                                   -- 2506 ms
+build.dart finished [3334 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [1393 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  59 ms
+build.dart finished [1247 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2459 ms
+Total time                                                   -- 2510 ms
+build.dart finished [3305 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   -- 114 ms
+build.dart finished [1672 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  41 ms
+build.dart finished [820 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  46 ms
+build.dart finished [839 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  44 ms
+build.dart finished [893 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  41 ms
+build.dart finished [908 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  51 ms
+build.dart finished [849 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [842 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [818 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  42 ms
+build.dart finished [835 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [785 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  41 ms
+build.dart finished [803 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  39 ms
+build.dart finished [808 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [783 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  41 ms
+build.dart finished [816 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [812 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  43 ms
+build.dart finished [809 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  40 ms
+build.dart finished [795 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2237 ms
+Total time                                                   -- 2283 ms
+build.dart finished [3090 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  54 ms
+build.dart finished [1543 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1870 ms
+Total time                                                   -- 1917 ms
+build.dart finished [2661 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [865 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2390 ms
+Total time                                                   -- 2439 ms
+build.dart finished [4567 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [2922 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2108 ms
+Total time                                                   -- 2152 ms
+build.dart finished [3116 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 4409 ms
+Total time                                                   -- 4455 ms
+build.dart finished [5381 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [984 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1936 ms
+Total time                                                   -- 1980 ms
+build.dart finished [2746 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [832 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1919 ms
+Total time                                                   -- 1964 ms
+build.dart finished [2709 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [807 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1780 ms
+Total time                                                   -- 1824 ms
+build.dart finished [2583 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  38 ms
+build.dart finished [788 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2072 ms
+Total time                                                   -- 2124 ms
+build.dart finished [3038 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [1120 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1837 ms
+Total time                                                   -- 1885 ms
+build.dart finished [2631 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [862 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1918 ms
+Total time                                                   -- 1964 ms
+build.dart finished [2711 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  67 ms
+build.dart finished [1138 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 5279 ms
+Total time                                                   -- 5327 ms
+build.dart finished [6885 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  48 ms
+build.dart finished [5791 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2006 ms
+Total time                                                   -- 2090 ms
+build.dart finished [7230 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [913 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1894 ms
+Total time                                                   -- 1941 ms
+build.dart finished [2772 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [855 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1827 ms
+Total time                                                   -- 1873 ms
+build.dart finished [2607 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [861 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1783 ms
+Total time                                                   -- 1829 ms
+build.dart finished [2668 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [800 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1770 ms
+Total time                                                   -- 1814 ms
+build.dart finished [2566 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [858 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1842 ms
+Total time                                                   -- 1885 ms
+build.dart finished [3397 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [833 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1917 ms
+Total time                                                   -- 1962 ms
+build.dart finished [2794 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [967 ms]
+
+---
+build.dart --machine --changed=web/tests/tests.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"error","params":{"file":"web/tests/tests.dart","message":"unable to open file \"web/tests/kalman.dart\"","line":14,"charStart":243,"charEnd":262}}]
+Total time spent on web/filters.html                         -- 1733 ms
+Total time                                                   -- 1779 ms
+build.dart finished [2610 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+[{"method":"error","params":{"file":"web/tests/tests.dart","message":"unable to open file \"web/tests/kalman.dart\"","line":14,"charStart":243,"charEnd":262}}]
+Total time spent on web/filters.html                         -- 1739 ms
+Total time                                                   -- 1784 ms
+build.dart finished [2605 ms]
+
+---
+build.dart --machine --changed=web/tests/tests.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2005 ms
+Total time                                                   -- 2052 ms
+build.dart finished [2871 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [893 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1890 ms
+Total time                                                   -- 1933 ms
+build.dart finished [2756 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  52 ms
+build.dart finished [883 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1979 ms
+Total time                                                   -- 2030 ms
+build.dart finished [2787 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1968 ms
+Total time                                                   -- 2016 ms
+build.dart finished [2796 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [1083 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2028 ms
+Total time                                                   -- 2072 ms
+build.dart finished [3183 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [971 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1999 ms
+Total time                                                   -- 2049 ms
+build.dart finished [2832 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [786 ms]
+
+---
+build.dart --machine --changed=pubspec.lock --changed=pubspec.yaml --changed=web/bootstrap/css/bootstrap-respon...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 15450 ms
+Total time                                                   -- 15496 ms
+build.dart finished [25659 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   -- 144 ms
+build.dart finished [9525 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3236 ms
+Total time                                                   -- 3311 ms
+build.dart finished [8319 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  72 ms
+build.dart finished [1315 ms]
+
+---
+build.dart --machine --removed=web/gaussian.dart --removed=web/google_charts.dart --removed=web/google_maps.dar...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2007 ms
+Total time                                                   -- 2057 ms
+build.dart finished [2781 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [908 ms]
+
+---
+build.dart --machine --changed=web/filters.dart.js --changed=web/filters.dart.js.deps --changed=web/filters.dar...
+Total time                                                   --  41 ms
+build.dart finished [6578 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2379 ms
+Total time                                                   -- 2439 ms
+build.dart finished [4137 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [1000 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2451 ms
+Total time                                                   -- 2538 ms
+build.dart finished [5316 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  50 ms
+build.dart finished [1091 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2216 ms
+Total time                                                   -- 2273 ms
+build.dart finished [3311 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  51 ms
+build.dart finished [944 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2036 ms
+Total time                                                   -- 2090 ms
+build.dart finished [2858 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [920 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2231 ms
+Total time                                                   -- 2291 ms
+build.dart finished [3177 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  52 ms
+build.dart finished [953 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2577 ms
+Total time                                                   -- 2639 ms
+build.dart finished [3506 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  53 ms
+build.dart finished [1221 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2257 ms
+Total time                                                   -- 2315 ms
+build.dart finished [3123 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [801 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2235 ms
+Total time                                                   -- 2291 ms
+build.dart finished [3085 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [940 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2348 ms
+Total time                                                   -- 2404 ms
+build.dart finished [3215 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  50 ms
+build.dart finished [970 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2296 ms
+Total time                                                   -- 2349 ms
+build.dart finished [3220 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  48 ms
+build.dart finished [910 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2340 ms
+Total time                                                   -- 2393 ms
+build.dart finished [3234 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3617 ms
+Total time                                                   -- 3673 ms
+build.dart finished [4497 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  56 ms
+build.dart finished [1150 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3824 ms
+Total time                                                   -- 3900 ms
+build.dart finished [4693 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  54 ms
+build.dart finished [1289 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2050 ms
+Total time                                                   -- 2113 ms
+build.dart finished [3651 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2041 ms
+Total time                                                   -- 2087 ms
+build.dart finished [2865 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1890 ms
+Total time                                                   -- 1940 ms
+build.dart finished [2677 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [763 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1893 ms
+Total time                                                   -- 1937 ms
+build.dart finished [2627 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [712 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1907 ms
+Total time                                                   -- 1951 ms
+build.dart finished [2642 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  58 ms
+build.dart finished [1013 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1816 ms
+Total time                                                   -- 1862 ms
+build.dart finished [2780 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [767 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1931 ms
+Total time                                                   -- 1977 ms
+build.dart finished [2673 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [842 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1999 ms
+Total time                                                   -- 2045 ms
+build.dart finished [2755 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [843 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1877 ms
+Total time                                                   -- 1921 ms
+build.dart finished [2599 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [746 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2126 ms
+Total time                                                   -- 2173 ms
+build.dart finished [2857 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [785 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3063 ms
+Total time                                                   -- 3160 ms
+build.dart finished [5993 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  58 ms
+build.dart finished [1359 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3320 ms
+Total time                                                   -- 3383 ms
+build.dart finished [4385 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   -- 110 ms
+build.dart finished [1838 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3237 ms
+Total time                                                   -- 3297 ms
+build.dart finished [4363 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  55 ms
+build.dart finished [1187 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 4861 ms
+Total time                                                   -- 4940 ms
+build.dart finished [7232 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  52 ms
+build.dart finished [95167 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 3048 ms
+Total time                                                   -- 3174 ms
+build.dart finished [7077 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  56 ms
+build.dart finished [1210 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2925 ms
+Total time                                                   -- 2985 ms
+build.dart finished [4351 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  54 ms
+build.dart finished [3565 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 4666 ms
+Total time                                                   -- 4762 ms
+build.dart finished [5761 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  56 ms
+build.dart finished [1138 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2801 ms
+Total time                                                   -- 2930 ms
+build.dart finished [3879 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  54 ms
+build.dart finished [1044 ms]
+
+---
+build.dart --machine --changed=web/tests/kalman_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2929 ms
+Total time                                                   -- 3021 ms
+build.dart finished [3932 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  54 ms
+build.dart finished [1157 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2117 ms
+Total time                                                   -- 2167 ms
+build.dart finished [6462 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [788 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1992 ms
+Total time                                                   -- 2038 ms
+build.dart finished [2889 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [822 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2113 ms
+Total time                                                   -- 2164 ms
+build.dart finished [2906 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [882 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1964 ms
+Total time                                                   -- 2013 ms
+build.dart finished [2757 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  44 ms
+build.dart finished [804 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2135 ms
+Total time                                                   -- 2186 ms
+build.dart finished [2949 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  48 ms
+build.dart finished [978 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2010 ms
+Total time                                                   -- 2058 ms
+build.dart finished [2818 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [895 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2003 ms
+Total time                                                   -- 2048 ms
+build.dart finished [2832 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [844 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2162 ms
+Total time                                                   -- 2213 ms
+build.dart finished [2992 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [757 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2136 ms
+Total time                                                   -- 2189 ms
+build.dart finished [2959 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [823 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2133 ms
+Total time                                                   -- 2183 ms
+build.dart finished [2953 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [816 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2013 ms
+Total time                                                   -- 2060 ms
+build.dart finished [2815 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [735 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2335 ms
+Total time                                                   -- 2393 ms
+build.dart finished [3365 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [952 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1964 ms
+Total time                                                   -- 2010 ms
+build.dart finished [2795 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [771 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2122 ms
+Total time                                                   -- 2171 ms
+build.dart finished [2932 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  41 ms
+build.dart finished [795 ms]
+
+---
+build.dart --machine --changed=web/filters.html
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2008 ms
+Total time                                                   -- 2054 ms
+build.dart finished [2819 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  45 ms
+build.dart finished [748 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2866 ms
+Total time                                                   -- 2913 ms
+build.dart finished [6095 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [5933 ms]
+
+---
+build.dart --machine --changed=web/out/filters.dart
+Total time                                                   --  61 ms
+build.dart finished [1271 ms]
+
+---
+build.dart --machine --changed=web/tests/tests.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2391 ms
+Total time                                                   -- 2644 ms
+build.dart finished [3390 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [1180 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2226 ms
+Total time                                                   -- 2277 ms
+build.dart finished [2972 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [992 ms]
+
+---
+build.dart --machine --changed=web/filters.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2154 ms
+Total time                                                   -- 2199 ms
+build.dart finished [2916 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  46 ms
+build.dart finished [894 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 1844 ms
+Total time                                                   -- 1890 ms
+build.dart finished [2553 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  47 ms
+build.dart finished [777 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2074 ms
+Total time                                                   -- 2119 ms
+build.dart finished [2798 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  40 ms
+build.dart finished [715 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2532 ms
+Total time                                                   -- 2599 ms
+build.dart finished [3291 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  51 ms
+build.dart finished [890 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2338 ms
+Total time                                                   -- 2397 ms
+build.dart finished [3113 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  43 ms
+build.dart finished [752 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2567 ms
+Total time                                                   -- 2617 ms
+build.dart finished [3340 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  39 ms
+build.dart finished [762 ms]
+
+---
+build.dart --machine --changed=web/tests/particles_test.dart
+[{"method":"mapping","params":{"from":"web/filters.html","to":"web/out/filters.html"}}]
+[{"method":"warning","params":{"file":"web/filters.html","message":"Named entity expected. Got none.","line":13,"charStart":365,"charEnd":495}}]
+[{"method":"warning","params":{"file":null,"message":"expected :, but found {","line":43,"charStart":711,"charEnd":712}}]
+[{"method":"warning","params":{"file":null,"message":"expected {, but found ;","line":44,"charStart":734,"charEnd":735}}]
+Total time spent on web/filters.html                         -- 2021 ms
+Total time                                                   -- 2066 ms
+build.dart finished [7021 ms]
+
+---
+build.dart --machine --changed=web/out/bootstrap/css/bootstrap-responsive.css --changed=web/out/bootstrap/css/b...
+Total time                                                   --  42 ms
+build.dart finished [1517 ms]
+

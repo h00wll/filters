@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Filters</title>
+    
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.css">
+    <link rel="stylesheet" href="filters.css">
+    
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript" 
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8fDpn6G8kUQlTgz6uO0kqNOz1D6z3Vwo&sensor=false"></script>
+
+  </head>
+  <body> 
+    
+    <div class="navbar">
+      <div class="navbar-inner">
+        <span class="brand">Filtru empirinis palyginimas</span>
+         <ul class="nav">
+          <li class=" {{activeTab[0]}}"><a class="tab" href="#" x-tab="0">Kalman</a></li>
+          <li class=" {{activeTab[1]}}"><a class="tab" href="#" x-tab="1">Particles</a></li>
+          <li class=" {{activeTab[2]}}"><a class="tab" href="#" x-tab="2">Simple</a></li>
+          <li class=" {{activeTab[3]}}"><a class="tab" href="#" x-tab="3">Movement with a</a></li>
+          <li class=" {{activeTab[4]}}"><a class="tab" href="#" x-tab="4">Gps</a></li>
+          <li class=" {{activeTab[5]}}"><a class="tab" href="#" x-tab="5">Flight</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="container">
+    
+      <div class="{{selected[1]}}">
+        <form>
+          <label>proceso laikas:</label>
+          <input id="kalmanTime" type="text" value="50" />
+          <label>proceso triuksmas:</label>
+          <input id="kalmanPNoise" type="text" value="0" />
+          <label>matavimo triuksmas:</label>
+          <input id="kalmanMNoise" type="text" value="1" />
+          <label>matavimo triuksmas:</label>
+          <input id="kalmanEx1" type="text" value="0" />     
+          <label>matavimo triuksmas:</label>
+          <input id="kalmanEz1" type="text" value="1" />   
+          <label>kalman2 triuksmas:</label>
+          <input id="kalmanEx2" type="text" value="0" />     
+          <label>kalman2 triuksmas:</label>
+          <input id="kalmanEz2" type="text" value="1" />                
+          <button id="kalmanTest" class="btn btn-primary">Skaiciuoti</button>
+                  
+          <div id="kalmanc1" class="chart">
+          </div>
+      
+          <div id="kalmanc2" class="chart">
+          </div>
+        </form>
+        
+      </div>
+    
+    <div class="{{selected[0]}}">
+        <form>
+          <label>proceso laikas:</label>
+          <input id="particlesTime" type="text" value="50" />
+          <label>proceso triuksmas:</label>
+          <input id="particlesPNoise" type="text" value="0" />
+          <label>matavimo triuksmas:</label>
+          <input id="particlesMNoise" type="text" value="1" />
+          <label>daleliu skaicius1:</label>
+          <input id="particlesCount1" type="text" value="10" />    
+          <label>daleliu skaicius2:</label>
+          <input id="particlesCount2" type="text" value="100" />         
+          <button id="particlesTest" class="btn btn-primary">Skaiciuoti</button>
+                  
+          <div id="particlesc1" class="chart">
+          </div>
+      
+          <div id="particlesc2" class="chart">
+          </div>
+        </form>
+        
+      </div>
+    
+    
+      <div class="{{selected[1]}}">
+        <form>
+          <label>proceso triuksmas:</label>
+          <input id="pNoise" type="text" value="0" />
+          <label>matavimo triuksmas:</label>
+          <input id="mNoise" type="text" value="1" />   
+          <label>daleliu skaicius:</label>
+          <input id="pCount" type="text" value="50" />            
+          <button id="simpleTest" class="btn btn-primary">skaiciuoti</button>
+                  
+          <div id="simplec1" class="chart">
+          </div>
+      
+          <div id="simplec2" class="chart">
+          </div>
+        </form>
+      </div>
+        
+        
+      <div class="{{selected[1]}}">
+          <form>
+            <label>proceso triuksmas:</label>
+            <input id="pNoise1" type="text" value="0" />
+            <label>matavimo triuksmas:</label>
+            <input id="mNoise1" type="text" value="1" />   
+            <label>daleliu skaicius:</label>
+            <input id="pCount1" type="text" value="50" />            
+            <button id="moveTest" class="btn btn-primary">skaiciuoti</button>
+                    
+            <div id="movec1" class="chart">
+            </div>
+        
+            <div id="movec2" class="chart">
+            </div>
+          </form>
+        </div>
+        
+      <div class="{{selected[2]}}">
+          <input type="file" id="file" />
+          <input type="button" id="submit" value="open" />
+          
+          <div id="map1" class="chart"></div>
+          
+        </div>
+      </div>
+     
+
+
+    <script type="application/dart" src="filters.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+   </body>
+</html>
