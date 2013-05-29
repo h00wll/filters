@@ -13,3 +13,4 @@ part 'walk_test.dart';
 part 'move_test.dart';
 part 'kalman_test.dart';
 part 'particles_test.dart';
+part 'flight_test.dart';
